@@ -22,4 +22,7 @@ Gosto de designs complexos, mas minimalistas, que não utilizam muitas cores.
 Sinta-se à vontade para entrar em contato ou contribuir com meus projetos. Estou aberto a colaborações e dicas!
 Meu contato pode ser visto no perfil.
 
+### ✉ P.S:
+Estou viciado em pedir para o ChatGPT comentar meus códigos. Preguiça? Comodidade? Prática? Talvez tudo isso? Tire suas próprias conclusões.
+
 Obrigado por visitar meu perfil! 😊
